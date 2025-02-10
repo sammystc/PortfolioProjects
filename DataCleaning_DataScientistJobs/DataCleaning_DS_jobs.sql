@@ -51,7 +51,7 @@ CREATE TABLE DATASCIENCEJOBS.STAGING_JOBS (
 	salaryestimate TEXT NULL,
 	jobdescription LONGTEXT NULL,
 	rating DECIMAL(10,1) NULL,
-	compmany TEXT NULL,
+	company TEXT NULL,
 	location TEXT NULL,
 	headquarters TEXT NULL,
 	`size` TEXT NULL,
