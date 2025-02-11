@@ -1,0 +1,154 @@
+"job_state","job_category","category_rank","industry"
+AL,Scientist,1,Aerospace & Defense
+AL,Engineer,2,Aerospace & Defense
+AZ,Scientist,1,Health Care Services & Hospitals
+AZ,Engineer,2,Health Care Services & Hospitals
+AZ,Scientist,1,Staffing & Outsourcing
+AZ,Engineer,2,Staffing & Outsourcing
+AZ,Scientist,1,Real Estate
+AZ,Engineer,2,Real Estate
+AZ,Scientist,1,Consulting
+AZ,Engineer,2,Consulting
+CA,Scientist,1,Computer Hardware & Software
+CA,Engineer,2,Computer Hardware & Software
+CA,Analyst,3,Computer Hardware & Software
+CA,Manager,4,Computer Hardware & Software
+CA,Other,5,Computer Hardware & Software
+CO,Scientist,1,Aerospace & Defense
+CO,Engineer,2,Aerospace & Defense
+CO,Scientist,1,Advertising & Marketing
+CO,Engineer,2,Advertising & Marketing
+CT,Scientist,1,Insurance Carriers
+CT,Engineer,2,Insurance Carriers
+DC,Scientist,1,IT Services
+DC,Analyst,2,IT Services
+DE,Scientist,1,Biotech & Pharmaceuticals
+FL,Engineer,1,Investment Banking & Asset Management
+FL,Scientist,2,Investment Banking & Asset Management
+FL,Other,3,Investment Banking & Asset Management
+GA,Scientist,1,Financial Transaction Processing
+GA,Scientist,1,IT Services
+IA,Analyst,1,Lending
+IL,Scientist,1,Staffing & Outsourcing
+IL,Analyst,2,Staffing & Outsourcing
+IL,Engineer,3,Staffing & Outsourcing
+IL,Other,4,Staffing & Outsourcing
+IN,Analyst,1,Insurance Agencies & Brokerages
+IN,Engineer,1,Insurance Agencies & Brokerages
+IN,Scientist,2,Insurance Agencies & Brokerages
+KS,Scientist,1,Health Care Services & Hospitals
+LA,Analyst,1,Enterprise Software & Network Solutions
+MA,Scientist,1,Biotech & Pharmaceuticals
+MA,Engineer,2,Biotech & Pharmaceuticals
+MA,Other,2,Biotech & Pharmaceuticals
+MA,Analyst,3,Biotech & Pharmaceuticals
+MA,Manager,3,Biotech & Pharmaceuticals
+MD,Scientist,1,Biotech & Pharmaceuticals
+MD,Engineer,2,Biotech & Pharmaceuticals
+MD,Analyst,3,Biotech & Pharmaceuticals
+MI,Scientist,1,Advertising & Marketing
+MI,Manager,2,Advertising & Marketing
+MI,Scientist,1,Internet
+MI,Manager,2,Internet
+MI,Scientist,1,Construction
+MI,Manager,2,Construction
+MN,Scientist,1,Advertising & Marketing
+MN,Analyst,1,Advertising & Marketing
+MN,Scientist,1,Miscellaneous Manufacturing
+MN,Analyst,1,Miscellaneous Manufacturing
+MO,Scientist,1,Insurance Carriers
+MO,Engineer,2,Insurance Carriers
+MO,Analyst,3,Insurance Carriers
+MO,Scientist,1,Biotech & Pharmaceuticals
+MO,Engineer,2,Biotech & Pharmaceuticals
+MO,Analyst,3,Biotech & Pharmaceuticals
+MS,Scientist,1,IT Services
+NC,Engineer,1,Insurance Carriers
+NC,Scientist,1,Insurance Carriers
+NC,Analyst,2,Insurance Carriers
+NE,Scientist,1,Enterprise Software & Network Solutions
+NE,Analyst,2,Enterprise Software & Network Solutions
+NE,Scientist,1,Logistics & Supply Chain
+NE,Analyst,2,Logistics & Supply Chain
+NH,Scientist,1,Staffing & Outsourcing
+NH,Engineer,1,Staffing & Outsourcing
+NH,Scientist,1,Insurance Carriers
+NH,Engineer,1,Insurance Carriers
+NJ,Scientist,1,Biotech & Pharmaceuticals
+NJ,Analyst,2,Biotech & Pharmaceuticals
+NJ,Scientist,1,IT Services
+NJ,Analyst,2,IT Services
+NY,Scientist,1,Insurance Carriers
+NY,Engineer,2,Insurance Carriers
+NY,Other,3,Insurance Carriers
+NY,Analyst,3,Insurance Carriers
+NY,Scientist,1,IT Services
+NY,Engineer,2,IT Services
+NY,Other,3,IT Services
+NY,Analyst,3,IT Services
+OH,Scientist,1,Research & Development
+OH,Engineer,2,Research & Development
+OH,Scientist,1,Consulting
+OH,Engineer,2,Consulting
+OH,Scientist,1,Insurance Agencies & Brokerages
+OH,Engineer,2,Insurance Agencies & Brokerages
+OH,Scientist,1,Timber Operations
+OH,Engineer,2,Timber Operations
+OH,Scientist,1,Venture Capital & Private Equity
+OH,Engineer,2,Venture Capital & Private Equity
+OH,Scientist,1,Federal Agencies
+OH,Engineer,2,Federal Agencies
+OH,Scientist,1,Industrial Manufacturing
+OH,Engineer,2,Industrial Manufacturing
+OH,Scientist,1,Health Care Services & Hospitals
+OH,Engineer,2,Health Care Services & Hospitals
+OK,Scientist,1,Oil & Gas Services
+OK,Analyst,1,Oil & Gas Services
+OK,Scientist,1,Research & Development
+OK,Analyst,1,Research & Development
+OR,Engineer,1,Computer Hardware & Software
+OR,Scientist,1,Computer Hardware & Software
+PA,Scientist,1,Health Care Services & Hospitals
+PA,Analyst,2,Health Care Services & Hospitals
+PA,Engineer,3,Health Care Services & Hospitals
+PA,Scientist,1,Biotech & Pharmaceuticals
+PA,Analyst,2,Biotech & Pharmaceuticals
+PA,Engineer,3,Biotech & Pharmaceuticals
+Remote,Scientist,1,Enterprise Software & Network Solutions
+Remote,Engineer,1,Enterprise Software & Network Solutions
+Remote,Scientist,1,Internet
+Remote,Engineer,1,Internet
+Remote,Scientist,1,Computer Hardware & Software
+Remote,Engineer,1,Computer Hardware & Software
+Remote,Scientist,1,IT Services
+Remote,Engineer,1,IT Services
+RI,Scientist,1,Biotech & Pharmaceuticals
+SC,Scientist,1,Biotech & Pharmaceuticals
+SC,Analyst,1,Biotech & Pharmaceuticals
+SC,Scientist,1,Lending
+SC,Analyst,1,Lending
+TN,Scientist,1,Investment Banking & Asset Management
+TN,Analyst,2,Investment Banking & Asset Management
+TN,Engineer,3,Investment Banking & Asset Management
+TX,Scientist,1,Staffing & Outsourcing
+TX,Analyst,2,Staffing & Outsourcing
+TX,Engineer,3,Staffing & Outsourcing
+United States,Scientist,1,IT Services
+United States,Engineer,2,IT Services
+UT,Scientist,1,Banks & Credit Unions
+UT,Engineer,2,Banks & Credit Unions
+UT,Scientist,1,Lending
+UT,Engineer,2,Lending
+UT,Scientist,1,Aerospace & Defense
+UT,Engineer,2,Aerospace & Defense
+VA,Scientist,1,Aerospace & Defense
+VA,Engineer,2,Aerospace & Defense
+VA,Analyst,3,Aerospace & Defense
+VA,Other,4,Aerospace & Defense
+WA,Scientist,1,Energy
+WA,Analyst,2,Energy
+WA,Scientist,1,Consulting
+WA,Analyst,2,Consulting
+WI,Scientist,1,Insurance Carriers
+WI,Analyst,2,Insurance Carriers
+WV,Scientist,1,Consulting
