@@ -26,6 +26,8 @@ The most commonly administered vaccination is the Pfizer vaccine by a large marg
 
 The Pfizer, Moderna, and Johnson&Johnson vaccines were most commonly used in western countries such as the European Union and the U.S. while the other vaccines were used in South American countries (Chile, Argentina) and scattered across the E.U. as well. 
 
+![ManufacturerVisuals](ManufacturerVisuals.png)
+
 ## Visualizations
 
 All visuals are uploaded as PDFs and the interactive dashboard can be found [here](https://public.tableau.com/app/profile/samantha.chan2412/viz/COVID19_Visuals/Dashboard1?publish=yes)
