@@ -28,4 +28,4 @@ The Pfizer, Moderna, and Johnson&Johnson vaccines were most commonly used in wes
 
 ## Visualizations
 
-All visuals are uploaded as PDFs and the interactive dashboard can be found [here]
+All visuals are uploaded as PDFs and the interactive dashboard can be found [here](https://public.tableau.com/app/profile/samantha.chan2412/viz/COVID19_Visuals/Dashboard1?publish=yes)
