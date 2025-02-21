@@ -14,3 +14,18 @@ China and India have the largest total populations whereas Pitcairn and Tokelau 
 
 In December of 2020, the first vaccines were distributed in America and we see a low % of the population being fully vaccinated. This checks out as vaccines were in short supply and high demand. By May of 2021, this number jumps up to ~41% and gradually increasing over time. 
 
+![RollingFullyVax_US](RollingFullyVax_US.png)
+
+### IV. Which countries were the first/last to administer the first vaccination and what date did that occur?
+
+Latvia was the first country to administer their COVID-19 vaccinations on December 4, 2020, with Denmark, Norway, the U.S., Canada, and Russia following not long after. Burundi administered their first vaccinations the latest date relative to other countries, occurring almost a year later on October 19, 2021. 
+
+### V. Which vaccine type was the most popular overall and by country?
+
+The most commonly administered vaccination is the Pfizer vaccine by a large margin, with Moderna coming in next at one-third of the volume of Pfizer vaccines. The least commonly used vaccine is Covaxin. 
+
+The Pfizer, Moderna, and Johnson&Johnson vaccines were most commonly used in western countries such as the European Union and the U.S. while the other vaccines were used in South American countries (Chile, Argentina) and scattered across the E.U. as well. 
+
+## Visualizations
+
+All visuals are uploaded as PDFs and the interactive dashboard can be found [here]
